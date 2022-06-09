@@ -4,9 +4,9 @@
 
 
 <h2>Sobre</h2>
-<p>Esta aplicação possui inspiração no desafio proposto pelo professor <a href="https://www.youtube.com/c/BoniekyLacerdaLeal"><b>Bonieky Lacerda</b><a/>.</p>
+<p>Esta aplicação possui inspiração no desafio proposto pelo professor <a href="https://www.youtube.com/c/BoniekyLacerdaLeal"><b>Bonieky Lacerda</b><a/>, que consiste em uma galeria de fotos.</p>
 <p>Para complementar a aplicação, além do proposto no desafio, foi implementado a visualização independente de cada foto e ainda a possibilidade de realizar a sua exclusão.</p>
-<p>Toda a aplicação foi desenvolvida em <b>Typescript</b> e como banco de dados foi utilizado o <b>Firestore Cloud Storage</b>.</p>
+<p>Toda a aplicação foi desenvolvida em <b>Typescript</b> com auxílio da biblioteca ReactJs, como banco de dados foi utilizado o <b>Firestore Cloud Storage</b>.</p>
 
 <h2>STACK</h2>
 <div style='display: inline_block'>
